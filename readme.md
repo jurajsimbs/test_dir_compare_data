@@ -5,7 +5,7 @@ Task consisting of two parts
 1. create a simple backend:
   - use (ideally) php or nodejs
   - backend should provide a route that will return a list of files for both directories and a differences between them
-  - we'll provide example directories
+  - we'll provide example directories (dir1/dir2 in this repo)
   
 2. create a frontend
   - will load a list of files from backend (asynchronously) and shows it as a flat list or a tree (view should be switchable)
@@ -18,7 +18,7 @@ Task consisting of two parts
   - view should consist of one list (or a tree) of files properly marked
     - scrolling should be smooth (even if there are 100k+ files)
   - list should be searchable (filtered) with text-box placed on top of it.
-  - use material design
+  - use a UI library specifically written for the chosen front-end framework
   - use react or vueJs
   
   
