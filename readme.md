@@ -9,6 +9,7 @@ Task consisting of two parts
   
 2. create a frontend
   - will load a list of files from backend (asynchronously) and shows it as a flat list or a tree (view should be switchable)
+    - (example [view](https://github.com/jurajsimbs/test_dir_compare_data/blob/master/example._comparsion_list.PNG))
   - we'd like to mark: 
     - new files (are not in dir1 and were added in dir2) with green color
 	- removed files (are in dir1 but were removed in dir2) with gray color - striked through
